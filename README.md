@@ -1,2 +1,0 @@
-# Mein-erstest-Repository
-Tesxt
